@@ -9,3 +9,4 @@ services:
     build:
       context: ./app
       target: prod
+    tty: true
